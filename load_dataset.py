@@ -21,4 +21,3 @@ if __name__ == "__main__":
   # generate a csv file
   df.to_csv(file_path, index=False)
 # Print the first 5 records
-  print("First 5 records:", df.head())
